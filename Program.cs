@@ -13,6 +13,6 @@ while (i < a / 2 )
 {
     System.Console.Write($"{b+2}  ");
     i++;
-    b=b+2;
+    b+=2;
 }
 System.Console.WriteLine("");
